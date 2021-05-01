@@ -1,0 +1,22 @@
+Spotify
+PyCharm
+Visual Studio Code
+Android Studio
+Intellij IDEA
+MATLAB
+Chrome
+Docker
+Flutter
+Golang
+TensorFlow
+XAMPP
+MongoDB Compass
+Postman
+Python
+Haskell
+Node
+OpenJDK
+git
+Tor Browser
+Firefox
+Parallels Desktop
