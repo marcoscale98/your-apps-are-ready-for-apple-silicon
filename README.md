@@ -7,3 +7,5 @@ Grazie a [https://isapplesiliconready.com/](https://isapplesiliconready.com/)
 - Modifica il file `programmi.txt` con i tuoi programmi che usi quotidianamente
 - Avvia lo script
 - Apri il link printato 
+## Se manca un'app
+Se un'app non è presente nel Database del sito, non la vedrai visualizzata

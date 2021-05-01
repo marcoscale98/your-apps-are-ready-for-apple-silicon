@@ -20,3 +20,4 @@ git
 Tor Browser
 Firefox
 Parallels Desktop
+HP Smart
