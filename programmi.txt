@@ -21,3 +21,7 @@ Tor Browser
 Firefox
 Parallels Desktop
 HP Smart
+Discord
+Telegram
+Skype
+Whatsapp
